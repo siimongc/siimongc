@@ -4,7 +4,7 @@
 </div>
 
 <div style="position: relative;">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="100" style="position: absolute; top: -50px; left: 50%;">
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200" style="position: absolute; top: -50px; left: 50%;">
   <h2 align="center">🍄 📫 How to reach me:</h2>
   <ul align="center">
     <li><strong>siimongaviria30@gmail.com</strong></li>
