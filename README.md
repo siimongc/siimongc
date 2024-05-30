@@ -1,16 +1,8 @@
 <div id="header" align="center">
-    <h1 align="center">Hi, i'm Simon Gaviria</h1>
+    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200"/>
+    <h1 align="center">Hi, I'm Simon Gaviria</h1>
     <h3 align="center">A Software Engineer Student</h3>
 </div>
-
-### 🍄 📫 How to reach me:
-
-- **siimongaviria30@gmail.com**
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="300"/>
-</div>
-
----
 
 ### 🔨 Languages and Tools:
 <table align="center">
@@ -95,17 +87,20 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" />
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/siimongc/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimongc&theme=transparent" alt="Top Langs"/>
-  </a>
-</p>
+<div align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" />
+  </div>
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+    </a>
+  </div>
+  <div style="display: inline-block;">
+    <a href="https://github.com/siimongc/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimongc&theme=transparent" alt="Top Langs"/>
+    </a>
+  </div>
+</div>
+
 
