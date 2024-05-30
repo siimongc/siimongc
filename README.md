@@ -6,7 +6,17 @@
 
 ### 🔨 Languages and Tools:
 
-  <style>
+ <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    #header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    #header img {
+      width: 200px;
+    }
     h1 {
       margin: 10px 0;
     }
