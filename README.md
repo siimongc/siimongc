@@ -76,14 +76,6 @@
       <br>Storybook
     </td>
     <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="28" height="28" alt="Tailwind CSS"/>
-      </a>
-      <br>Tailwind CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <a href="https://nextjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="28" height="28" alt="Next.js"/>
       </a>
