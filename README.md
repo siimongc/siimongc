@@ -14,7 +14,7 @@
 ### 🔨 Languages and Tools:
 <table align="center">
   <tr>
-    <td align="center" width="76">
+    <td align="center" width="66">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="28" height="28" alt="HTML5"/>
       </a>
@@ -38,8 +38,6 @@
       </a>
       <br>React
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://astro.build/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" width="28" height="28" alt="Astro"/>
@@ -51,6 +49,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="28" height="28" alt="Node.js"/>
       </a>
       <br>Node.js
+ </tr>
+ <tr>
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank">
@@ -64,7 +64,6 @@
       </a>
       <br>Azure
     </td>
-  </tr>
   <tr>
     <td align="center" width="96">
       <a href="https://www.figma.com/" target="_blank">
