@@ -1,14 +1,14 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200"/>
     <h1 align="center">I'm Simon Gaviria</h1>
-    <h3 align="center">A Software Engineer Student</h3>
+    <h3 align="center">Software Engineer</h3>
 </div>
 
 ---
 
-### 🍄 About Me:
-- 🌱 I’m currently learning **React.js** and **Ruby on Rails**
-- 📫 How to reach me: **siimongaviria30@gmail.com**
+### 🍄 How to reach me: 📫
+
+- **siimongaviria30@gmail.com**
 
 ---
 
@@ -40,16 +40,10 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://rubyonrails.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="48" height="48" alt="Rails"/>
+      <a href="https://astro.build/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" width="48" height="48" alt="Astro"/>
       </a>
-      <br>Rails
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.ruby-lang.org/en/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby"/>
-      </a>
-      <br>Ruby
+      <br>Astro
     </td>
   </tr>
   <tr>
