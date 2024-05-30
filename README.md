@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td align="center" width="86">
-      <a href="https://git-scm.com/" target="_blank">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28" alt="Git"/>
       </a>
       <br>Git
