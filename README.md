@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="400"/>
-    <h1 align="center">I'm Simon Gaviria</h1>
+    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="100"/>
+    <h1 align="center">Hi, i'm Simon Gaviria</h1>
     <h3 align="center">A Software Engineer Student</h3>
 </div>
 
@@ -97,15 +97,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" />
+  <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" /> | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
 </p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/siimongc/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimongc&theme=transparent" alt="Top Langs"/>
-  </a>
-</p>
+
