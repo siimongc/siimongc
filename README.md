@@ -1,13 +1,15 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="100"/>
     <h1 align="center">Hi, i'm Simon Gaviria</h1>
     <h3 align="center">A Software Engineer Student</h3>
 </div>
 
-
-### 🍄 📫 How to reach me:
-
-- **siimongaviria30@gmail.com**
+<div style="position: relative;">
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="100" style="position: absolute; top: -50px; left: 50%;">
+  <h2 align="center">🍄 📫 How to reach me:</h2>
+  <ul align="center">
+    <li><strong>siimongaviria30@gmail.com</strong></li>
+  </ul>
+</div>
 
 ---
 
