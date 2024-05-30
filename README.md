@@ -6,8 +6,8 @@
 
 ### 🔨 Languages and Tools:
   
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; text-align: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 10px; text-align: center;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
         <br>HTML5
