@@ -1,22 +1,110 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200"/>
+    <h1 align="center">I'm Simon Gaviria</h1>
+    <h3 align="center">A Software Engineer Student</h3>
 </div>
-<h1 align="center">I'm Simon Gaviria</h1>
-<h3 align="center">A software engineer student</h3>
 
-___
-### 🍄 about me:
--  I’m currently learning **react.js ruby on rails**
+---
 
--  How to reach me **siimongaviria30@gmail.com**
+### 🍄 About Me:
+- 🌱 I’m currently learning **React.js** and **Ruby on Rails**
+- 📫 How to reach me: **siimongaviria30@gmail.com**
+
+---
 
 ### 🔨 Languages and Tools:
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5"/>
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3"/>
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://rubyonrails.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="48" height="48" alt="Rails"/>
+      </a>
+      <br>Rails
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.ruby-lang.org/en/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby"/>
+      </a>
+      <br>Ruby
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git"/>
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-in/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure"/>
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma"/>
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap"/>
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
 
-___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" /> </p>
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siimongc&theme=transparent)](https://github.com/siimongc/github-readme-stats)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" />
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/siimongc/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimongc&theme=transparent" alt="Top Langs"/>
+  </a>
+</p>
