@@ -1,19 +1,18 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200"/>
     <h1 align="center">I'm Simon Gaviria</h1>
-    <h3 align="center">Software Engineer</h3>
+    <h3 align="center">A Software Engineer Student</h3>
 </div>
 
 ---
 
-### 🍄 How to reach me: 📫
+### 🍄 📫 How to reach me:
 
 - **siimongaviria30@gmail.com**
 
 ---
 
 ### 🔨 Languages and Tools:
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -78,6 +77,8 @@
       </a>
       <br>Linux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
@@ -92,7 +93,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
