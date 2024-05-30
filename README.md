@@ -89,9 +89,6 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <div style="display: inline-block; margin-right: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" />
-  </div>
-  <div style="display: inline-block; margin-right: 20px;">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/>
     </a>
