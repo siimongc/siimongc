@@ -96,7 +96,17 @@
 ---
 
 ### 📊 GitHub Stats:
+como pngo este github stats uno al frente del otro <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" />
+</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" /> | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/siimongc/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimongc&theme=transparent" alt="Top Langs"/>
+  </a>
 </p>
 
