@@ -14,9 +14,9 @@
 ### 🔨 Languages and Tools:
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="86">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" height="20" alt="HTML5"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5"/>
       </a>
       <br>HTML5
     </td>
@@ -96,7 +96,7 @@
 ---
 
 ### 📊 GitHub Stats:
-como pngo este github stats uno al frente del otro <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=siimongc&label=Profile%20views&color=0e75b6&style=flat" alt="siimongc" />
 </p>
 <p align="center">
