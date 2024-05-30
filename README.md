@@ -12,8 +12,6 @@
   </a>
 </p>
 
----
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siimongc&theme=transparent&hide_border=true" alt="GitHub Streak"/></a> | <a href="https://github.com/siimongc/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimongc&theme=transparent" alt="Top Langs"/></a> |
