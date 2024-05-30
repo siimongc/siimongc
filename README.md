@@ -48,6 +48,12 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js"/>
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git"/>
       </a>
