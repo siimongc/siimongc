@@ -6,8 +6,7 @@
 ### 🍄 📫 How to reach me:
 
 - **siimongaviria30@gmail.com**
-   <div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px;">- **siimongaviria30@gmail.com**</span>
+<div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="300"/>
 </div>
 
