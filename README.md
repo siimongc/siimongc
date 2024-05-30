@@ -64,25 +64,34 @@
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" height="28" alt="Linux"/>
+      <a href="https://mswjs.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/mswjs/msw/main/media/msw-logo.svg" width="28" height="28" alt="MSW"/>
       </a>
-      <br>Linux
+      <br>Mock Service Worker
     </td>
     <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28" alt="MySQL"/>
+      <a href="https://storybook.js.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/storybookjs/brand/master/badge/badge-storybook.svg" width="28" height="28" alt="Storybook"/>
       </a>
-      <br>MySQL
+      <br>Storybook
     </td>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="28" height="28" alt="Bootstrap"/>
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="28" height="28" alt="Tailwind CSS"/>
       </a>
-      <br>Bootstrap
+      <br>Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="28" height="28" alt="Next.js"/>
+      </a>
+      <br>Next.js
     </td>
   </tr>
 </table>
+
 
 ---
 
