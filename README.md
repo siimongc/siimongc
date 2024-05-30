@@ -6,30 +6,49 @@
 
 ### 🔨 Languages and Tools:
 
-<style>
+  <style>
+    h1 {
+      margin: 10px 0;
+    }
+    h3 {
+      margin: 5px 0 20px 0;
+      color: gray;
+    }
     .container {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 20px;
+      gap: 15px;
+      padding: 0 20px;
     }
     .tech-item {
       display: flex;
       flex-direction: column;
       align-items: center;
-      width: 100px;
+      width: 80px;
       text-align: center;
     }
     .tech-item img {
-      width: 50px;
-      height: 50px;
+      width: 40px;
+      height: 40px;
+      margin-bottom: 5px;
     }
     .tech-item a {
       text-decoration: none;
       color: #000;
+      font-size: 0.9em;
     }
     .tech-item a:hover {
       color: #0073e6;
+    }
+    .github-stats {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .github-stats table {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
     }
   </style>
   
