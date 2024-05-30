@@ -39,14 +39,14 @@
       </a>
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://astro.build/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" width="48" height="48" alt="Astro"/>
       </a>
       <br>Astro
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js"/>
@@ -65,6 +65,8 @@
       </a>
       <br>Azure
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma"/>
@@ -77,8 +79,6 @@
       </a>
       <br>Linux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
