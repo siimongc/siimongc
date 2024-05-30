@@ -1,10 +1,9 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="400"/>
     <h1 align="center">I'm Simon Gaviria</h1>
     <h3 align="center">A Software Engineer Student</h3>
 </div>
 
----
 
 ### 🍄 📫 How to reach me:
 
