@@ -8,7 +8,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,html,js,react,angular,nodejs,dart,flutter,azure,notion" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,react,angular,nodejs,dart,flutter,azure,notion" />
   </a>
 </p>
 
